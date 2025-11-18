@@ -42,8 +42,7 @@ Thumbs.db
 .env.local
 
 # Project specific
-*.xlsx
-*.xls
-*.xlsm
+# *.xlsx  # 문서 파일은 포함하도록 주석 처리
+# *.xlsm  # 문서 파일은 포함하도록 주석 처리
 output/
 temp/

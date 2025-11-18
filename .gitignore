@@ -44,5 +44,6 @@ Thumbs.db
 # Project specific
 *.xlsx
 *.xls
+*.xlsm
 output/
 temp/

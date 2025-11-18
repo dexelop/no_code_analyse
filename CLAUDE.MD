@@ -2,6 +2,9 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## 환경
+uv 환경의 파이썬
+
 ## response rule
 대답은 한국말로 하고 코드의 주석들도 가능한 한국말로 해줘.
 
